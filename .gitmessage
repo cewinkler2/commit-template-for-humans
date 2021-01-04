@@ -13,15 +13,16 @@
 #
 #
 # Common emojis for categories include the following:
-# Cosmetic/style      :art:
-# New feature         :sparkles:
+# Initial commit      :hatched_chick:
+# Cosmetic/style      :sparkles:
+# New feature         :space_invader:
 # Bugfix              :bug:
-# Refactoring         :recycle:
-# Documentation       :books:
+# Refactoring         :doughnut:
+# Documentation       :pencil:
 # Tests               :rotating_light:
 # Performance         :racehorse:
-# Removal             :scissors:
-# Data                :floppy_disk:
+# Removal             :broken_heart:
+# Data                :minidisc:
 # Version tag         :bookmark:
 #
 # For more, see https://github.com/dannyfritz/commit-message-emoji
