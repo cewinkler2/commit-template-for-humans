@@ -1,4 +1,4 @@
-# A commit message template for humans :family:
+# A commit message template for humans :family: - Personalized
 
 ## What is this about? :interrobang:
 
